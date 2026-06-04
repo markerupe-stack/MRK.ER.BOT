@@ -1,2 +1,19 @@
-# MRK.ER.BOT
-🤖 MRƘ.ER Bot — A powerful WhatsApp Multi-Device bot featuring AI Auto Reply, Auto Status View, Auto Status React, YouTube &amp; TikTok Downloads, Sticker Creation, Group Management, Admin Commands, and fast reliable performance.
+# MRK.ER BOT
+
+Advanced WhatsApp Automation Platform
+
+Owner: Mark Erupe
+
+Status: Development
+
+## Features
+
+- Pair Code Login
+- QR Login
+- Multi Session Support
+- Dashboard
+- WhatsApp Automation
+
+## License
+
+MIT
